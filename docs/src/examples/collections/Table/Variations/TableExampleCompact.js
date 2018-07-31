@@ -52,6 +52,11 @@ const TableExampleCompact = () => (
         <Table.Cell>Approved</Table.Cell>
         <Table.Cell>Requires call</Table.Cell>
       </Table.Row>
+  <Table.Row>
+        <Table.Cell>Jamie</Table.Cell>
+        <Table.Cell>Approved</Table.Cell>
+        <Table.Cell>Requires call</Table.Cell>
+      </Table.Row>
     </Table.Body>
   </Table>
 )
